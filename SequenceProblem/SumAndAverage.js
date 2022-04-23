@@ -13,4 +13,4 @@ console.log(e);
 let add = a + b + c + d + e;
 let average = (add/5);
 console.log("Sum of 5 two digit number is : " +add);
-//console.log("Average of 5 two digit number is : " +average);
+console.log("Average of 5 two digit number is : " +average);
