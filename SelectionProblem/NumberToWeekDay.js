@@ -1,5 +1,5 @@
-
-var number = 1;
+let number =( Math.floor(Math.random() * 10) % 8);
+console.log(number);
 if (number == 1) {
     console.log("Sunday");
 }
